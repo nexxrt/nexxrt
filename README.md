@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/nexxrt/nxlookup"><img src="https://img.shields.io/badge/nxlookup-0d1117?style=for-the-badge&logo=terminal&logoColor=c9d1d9&labelColor=0d1117" /></a>
-  <a href="https://github.com/nexxrt/nxlookup-web"><img src="https://img.shields.io/badge/nxlookup--web-0d1117?style=for-the-badge&logo=windowsterminal&logoColor=c9d1d9&labelColor=0d1117" /></a>
+  <a href="https://github.com/nexxrt/nxlookup-ui"><img src="https://img.shields.io/badge/nxlookup--ui-0d1117?style=for-the-badge&logo=windowsterminal&logoColor=c9d1d9&labelColor=0d1117" /></a>
 </p>
 
 ---
@@ -48,11 +48,10 @@ _Click to expand:_
 [+] User: nexxrt
 [+] Role: Tools & Automation
 [+] Status: Building
-[+] Projects: nxlookup, nxlookup-web
+[+] Projects: nxlookup, nxlookup-ui
 ```
 
 </details>
-
 <details>
 <summary><code><kbd>&gt; ./projects --list</kbd></code></summary>
 
@@ -62,10 +61,10 @@ _Click to expand:_
   250+ TLDs · WHOIS · DNS · IP/ASN · IDN
   github.com/nexxrt/nxlookup
 
-── nxlookup-web ─────────────────────────────────
+── nxlookup-ui ─────────────────────────────────
   Desktop GUI for nxlookup
   Flask · pywebview · Native window
-  github.com/nexxrt/nxlookup-web
+  github.com/nexxrt/nxlookup-ui
 ```
 
 </details>
