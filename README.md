@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/nexxrt">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=%3E+nexxrt%40github%3A~%24;%3E+cat+%2Fetc%2Fmotd;%3E+Access+Granted." alt="Terminal Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=c9d1d9&center=true&vCenter=true&width=700&height=70&lines=%3E+nexxrt%40github%3A~%24;%3E+cat+%2Fetc%2Fmotd;%3E+Access+Granted." alt="Terminal Header" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nexxrt/nxlookup"><img src="https://img.shields.io/badge/nxlookup-000000?style=for-the-badge&logo=terminal&logoColor=FFFFFF&labelColor=000000" /></a>
-  <a href="https://github.com/nexxrt/nxlookup-ui"><img src="https://img.shields.io/badge/nxlookup--ui-000000?style=for-the-badge&logo=windowsterminal&logoColor=FFFFFF&labelColor=000000" /></a>
+  <a href="https://github.com/nexxrt/nxlookup"><img src="https://img.shields.io/badge/nxlookup-0d1117?style=for-the-badge&logo=terminal&logoColor=c9d1d9&labelColor=0d1117" /></a>
+  <a href="https://github.com/nexxrt/nxlookup-ui"><img src="https://img.shields.io/badge/nxlookup--ui-0d1117?style=for-the-badge&logo=windowsterminal&logoColor=c9d1d9&labelColor=0d1117" /></a>
 </p>
 
 ---
@@ -15,25 +15,25 @@
 
 Languages & Scripting
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFFFFF) ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=c9d1d9) ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=c9d1d9) ![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=c9d1d9) ![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=c9d1d9)
 
 OS & Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FFFFFF) ![Arch](https://img.shields.io/badge/Arch-000000?style=flat-square&logo=archlinux&logoColor=FFFFFF) ![WSL](https://img.shields.io/badge/WSL-000000?style=flat-square&logo=windows-terminal&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=c9d1d9) ![Arch](https://img.shields.io/badge/Arch-0d1117?style=flat-square&logo=archlinux&logoColor=c9d1d9) ![WSL](https://img.shields.io/badge/WSL-0d1117?style=flat-square&logo=windows-terminal&logoColor=c9d1d9) ![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat-square&logo=windows&logoColor=c9d1d9) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=c9d1d9)
 
 Tools
 
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFFFFF) ![Actions](https://img.shields.io/badge/Actions-000000?style=flat-square&logo=githubactions&logoColor=FFFFFF) ![DNS](https://img.shields.io/badge/DNS-000000?style=flat-square&logo=icloud&logoColor=FFFFFF) ![WHOIS](https://img.shields.io/badge/WHOIS-000000?style=flat-square&logo=internetexplorer&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=c9d1d9) ![Actions](https://img.shields.io/badge/Actions-0d1117?style=flat-square&logo=githubactions&logoColor=c9d1d9) ![DNS](https://img.shields.io/badge/DNS-0d1117?style=flat-square&logo=icloud&logoColor=c9d1d9) ![WHOIS](https://img.shields.io/badge/WHOIS-0d1117?style=flat-square&logo=internetexplorer&logoColor=c9d1d9)
 
 ---
 
 ### 📊 System Logs
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nexxrt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nexxrt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&hide=stars)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nexxrt&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=CCCCCC&sideNums=FFFFFF)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nexxrt&theme=dark&hide_border=true&background=0d1117&ring=8b949e&fire=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&sideLabels=c9d1d9&dates=8b949e)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxrt&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxrt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e)
 
 ---
 
