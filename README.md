@@ -27,16 +27,6 @@ Tools
 
 ---
 
-### 📊 System Logs
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nexxrt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&hide=stars)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nexxrt&theme=dark&hide_border=true&background=0d1117&ring=8b949e&fire=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&sideLabels=c9d1d9&dates=8b949e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxrt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e)
-
----
-
 ### 💻 System Info
 
 _Click to expand:_
