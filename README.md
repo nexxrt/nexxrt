@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/nexxrt/nxlookup"><img src="https://img.shields.io/badge/nxlookup-0d1117?style=for-the-badge&logo=terminal&logoColor=c9d1d9&labelColor=0d1117" /></a>
   <a href="https://github.com/nexxrt/nxlookup-ui"><img src="https://img.shields.io/badge/nxlookup--ui-0d1117?style=for-the-badge&logo=windowsterminal&logoColor=c9d1d9&labelColor=0d1117" /></a>
+  <a href="https://github.com/nexxrt/nxmap"><img src="https://img.shields.io/badge/nxmap-0d1117?style=for-the-badge&logo=target&logoColor=c9d1d9&labelColor=0d1117" /></a>
 </p>
 
 ---
@@ -38,7 +39,7 @@ _Click to expand:_
 [+] User: nexxrt
 [+] Role: Tools & Automation
 [+] Status: Building
-[+] Projects: nxlookup, nxlookup-ui
+[+] Projects: nxlookup, nxlookup-ui, nxmap
 ```
 
 </details>
